@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = "9.0"
   s.framework = "CFNetwork"
 
-  s.dependency "AFNetworking", "~> 3.0"
+  s.dependency "AFNetworking", "3.0"
 end
